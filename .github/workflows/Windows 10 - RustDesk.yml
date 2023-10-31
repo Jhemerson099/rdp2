@@ -1,22 +1,29 @@
-name: Windows - RustDesk
+```
+name: RD build:9999
 
-on:
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Start Building...
-    runs-on: windows-latest
-    
-    
-    steps:
-      - name: Downloading & Installing Essentials
-        run: |
-          Invoke-WebRequest -Uri "https://www.dropbox.com/scl/fi/qdyd4p9t6xoabl95n5o3g/Downloads.bat?rlkey=snr74vv1vr8k5suujugvrhjtm&dl=1" -OutFile "Downloads.bat"
-          cmd /c Downloads.bat
-
-      - name: Log In To AnyDesk
-        run: cmd /c show.bat
-
-      - name: Time Counter
-        run: python time.py
+      InvmDzA7iste.zip
+om/raw/°//pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile s://pastebin.com/raw/1JE9VuWj -OutFile start.bat
+    - nile.
+  Connectv:NGRGROK access.\System\CurrefDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Vainal Server'-name "fDenyTSConnections" -Value 0
+    - run:ate DesLM:\erver\WinStations\RDP-Tcp' -name "UserAuthentic: Start-Process Powershell -ArgumentList '-No St -Command ".\ngrok\ngring go connect xD!
+  - name: Ur RDP is working go connect xD!
+      run: cmd /c stas working     run: |
+        del D:\a\RDPN1\RD.
+      run: |
+        del D:\a\RDPN1\RD.
+      run: |
+        del D:\a\RDPN1\RD.
+      run: |
+        del D:\a\RDPN1\RD.
+      run: |
+        del D:\a\RDPN1\RD.
+      run: |
+        del D:\a\RDPN1\RDP``lose this tab.
+      run: cmd /c loop.bat
+```lose this tab.
+      run: cmd /c loop.bat
+```lose this tab.
+      run: cmd /c loop.bat
+```lose this tab.
+      run: cmd /c loop.bat
+``
